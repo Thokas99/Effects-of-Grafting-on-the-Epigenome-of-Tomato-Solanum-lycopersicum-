@@ -1,30 +1,37 @@
-# Effects of Grafting on the Epigenome of Tomato (Solanum lycopersicum)
-Grafting is an agricultural technique with ancient origin. Nowadays, it is widely used in modern 
-agriculture, bringing many documented advantages for farmers and for the plant itself. Examples of 
-these advantages are increased harvesting, increased nutrient absorption, tolerance to biotic and 
-abiotic stresses. For a long time, the studies concerning grafting have been focused on the stresses.
-The results of these studies, together with an increasing economic attention, led grafting to be a 
-possible alternative to the use of pesticides. In tomato (Solanum lycopersicum), part of the family of 
-the Solanaceae, the grafting technique is widely used for commercial purposes and plant health. The 
-research made on the effect of the grafting in tomato mainly concern the resistance to pathogens, the 
-increase of the harvesting, the variations in the nutritional properties, quality and presentation of the 
-fruits for commercial purposes. Grafting, as an act of fusion between parts of a plant, represents a 
-great source of stress to which the new produced plant must adapt to survive. The necessary
-adaptation involves a series of reversible modifications, often heritable, in the gene expression and 
-sometimes in the phenotype of the plant, showing a link between the grafting and the modifications 
-of the epigenome. Epigenomics aims to study the mechanisms behind the organization of the 
-epigenome such as histone modifications and methylation changes of cytosines. In this work the 
-attention was focused on this last epigenetic change. The differences in methylation have been 
-identified through comparisons between grafted plants produced with five different types of 
-rootstocks (I12, I14, I15, O3 and OPT) and one last graft produced with scion and rootstock of the same 
-variety and their controls. The relative methylation of the CG, CHG and CHH contexts was evaluated 
-in the comparisons between treatments and controls. These are sequences spread through the whole 
-genome and their methylation rate regulates gene expression by silencing or activating specific genes 
-and metabolic pathways. The analysis was done through the MCSeEd methodology, which utilizes 
-endonucleasesthat are sensible to DNA methylation, then using various bioinformatic tools to process
-the produced information. The goal of the analysis was to assess the differences in the DNA
-methylation between the comparisons and to identify the differentially methylated genes. Their 
-identification was performed thanks to the analysis of the differentially methylated regions (DMRs) 
-and their comparison with the tomato reference genome. In order to understand the extent of the
-alteration in the tomato epigenome and their influence on the fruit, it was essential to identify and 
-study the differentially methylated genes.
+# Grafting Effects on Tomato (Solanum lycopersicum) Epigenome
+
+## Overview
+
+Grafting, an age-old agricultural technique, plays a pivotal role in modern agriculture, providing myriad benefits for both farmers and plants. This README explores the documented advantages of grafting in tomatoes, emphasizing its impact on the epigenome of Solanum lycopersicum.
+
+## Key Advantages of Grafting
+
+- **Increased Harvesting:** Grafting contributes to enhanced yields, making it a valuable practice for farmers.
+  
+- **Stress Tolerance:** Grafted plants exhibit increased tolerance to various biotic and abiotic stresses, a crucial factor for sustainable agriculture.
+
+## Background
+
+Historically, grafting studies focused on stress factors, but recent research has positioned grafting as a potential alternative to pesticide use, showcasing its economic relevance. In the realm of tomatoes, a member of the Solanaceae family, grafting is widely employed for commercial purposes and plant health.
+
+## Epigenomic Modifications and Grafting
+
+Grafting, involving the fusion of plant parts, induces stress, leading to reversible, often heritable modifications in gene expression and phenotype. This connection between grafting and epigenomic changes prompted an exploration of the tomato epigenome.
+
+### Epigenomic Analysis
+
+The study primarily focuses on cytosine methylation changes, a key epigenetic modification. The analysis compares plants grafted with various rootstocks (I12, I14, I15, O3, and OPT) and a control graft with scion and rootstock of the same variety.
+
+- **Image 1: Grafted Tomato Plants**
+  ![Grafted Tomatoes](path/to/image1.png)
+
+The analysis assesses relative methylation in CG, CHG, and CHH contexts—genome-spanning sequences regulating gene expression. Utilizing the MCSeEd methodology and bioinformatic tools, the study aims to identify differentially methylated genes.
+
+## Understanding the Impact
+
+To comprehend the extent of alterations in the tomato epigenome and their influence on fruit development, identifying and studying differentially methylated genes is essential.
+
+- **Image 2: Epigenomic Changes in Tomato Fruits**
+  ![Epigenomic Changes](path/to/image2.png)
+
+This README provides an in-depth exploration of the research's scope and objectives, offering insights into the intricate relationship between grafting and the epigenome of Solanum lycopersicum. Further details and findings can be explored in the associated documentation and research publications.
