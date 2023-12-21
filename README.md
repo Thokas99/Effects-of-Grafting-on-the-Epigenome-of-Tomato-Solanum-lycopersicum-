@@ -21,17 +21,10 @@ Grafting, involving the fusion of plant parts, induces stress, leading to revers
 ### Epigenomic Analysis
 
 The study primarily focuses on cytosine methylation changes, a key epigenetic modification. The analysis compares plants grafted with various rootstocks (I12, I14, I15, O3, and OPT) and a control graft with scion and rootstock of the same variety.
-
-- **Image 1: Grafted Tomato Plants**
-  ![Grafted Tomatoes](path/to/image1.png)
-
 The analysis assesses relative methylation in CG, CHG, and CHH contexts—genome-spanning sequences regulating gene expression. Utilizing the MCSeEd methodology and bioinformatic tools, the study aims to identify differentially methylated genes.
 
 ## Understanding the Impact
 
 To comprehend the extent of alterations in the tomato epigenome and their influence on fruit development, identifying and studying differentially methylated genes is essential.
-
-- **Image 2: Epigenomic Changes in Tomato Fruits**
-  ![Epigenomic Changes](path/to/image2.png)
 
 This README provides an in-depth exploration of the research's scope and objectives, offering insights into the intricate relationship between grafting and the epigenome of Solanum lycopersicum. Further details and findings can be explored in the associated documentation and research publications.
