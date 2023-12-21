@@ -2,7 +2,7 @@
 
 ## Overview
 
-Grafting, an age-old agricultural technique, plays a pivotal role in modern agriculture, providing myriad benefits for both farmers and plants. This README explores the documented advantages of grafting in tomatoes, emphasizing its impact on the epigenome of Solanum lycopersicum.
+Grafting, an age-old agricultural technique, plays a pivotal role in modern agriculture, providing myriad benefits for both farmers and plants. This explores the documented advantages of grafting in tomatoes, emphasizing its impact on the epigenome of Solanum lycopersicum.
 
 ## Key Advantages of Grafting
 
