@@ -27,8 +27,10 @@ The analysis assesses relative methylation in CG, CHG, and CHH contexts—genome
 
 To comprehend the extent of alterations in the tomato epigenome and their influence on fruit development, identifying and studying differentially methylated genes is essential.
 
-This README provides an in-depth exploration of the research's scope and objectives, offering insights into the intricate relationship between grafting and the epigenome of Solanum lycopersicum. Further details and findings can be explored in the associated documentation and research publications.
+This README provides an brief explenation of the research's scope and objectives, offering insights into the intricate relationship between grafting and the epigenome of Solanum lycopersicum. Further details and findings can be explored in the thesis and relative presentation in this repository.
 
 For the full code and more info write to:
 
-- personalesirchi@gmail.com
+- [Thomas Sirchi](personalesirchi@gmail.com)
+- email : personalesirchi@gmail.com
+- Telegram : @Thokas71
