@@ -33,5 +33,5 @@ This README provides an brief explenation of the research's scope and objectives
 
 - [Thomas Sirchi](https://github.com/Thokas99)
 - Personal email : personalesirchi@gmail.com
-- Current univeristy email : thomas.sirchi@studenti.unitn.it
+- Current university email : thomas.sirchi@studenti.unitn.it
 - Telegram : @Thokas71
