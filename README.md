@@ -29,8 +29,9 @@ To comprehend the extent of alterations in the tomato epigenome and their influe
 
 This README provides an brief explenation of the research's scope and objectives, offering insights into the intricate relationship between grafting and the epigenome of Solanum lycopersicum. Further details and findings can be explored in the thesis and relative presentation in this repository.
 
-For the full code and more info write to:
+### For the full code and more info write to:
 
-- [Thomas Sirchi](personalesirchi@gmail.com)
-- email : personalesirchi@gmail.com
+- [Thomas Sirchi](https://github.com/Thokas99)
+- Personal email : personalesirchi@gmail.com
+- Current univeristy email : thomas.sirchi@studneti.unitn.it
 - Telegram : @Thokas71
